@@ -62,7 +62,8 @@ Inspired by World of Rogues, I created the beginning of a language called *Lumin
  |------------|-------------|-------|
  |🜄🜎|Ci Mo|Yes|
  |🜎🜃|Mo Bu|No|
- |🜎🜆🜎🜎🜅|Mo E Mo Mo De|Hello|
+ |🜎🜆🜎🜎🜅|Mo E Mo Mo De|Hello(formal)|
+ |🜆🜎|E Mo|Hello(casual)|
  |🜎🜅🜑|Mo Di Pi|Good|
  |🜃🜎🜉|Bu Mo Hi|Bad|
  |🜇🜆 🜎🜅🜎🜉🜆🜇|Fi E Mo Di Mo Hi E Fi|Good Morning|
