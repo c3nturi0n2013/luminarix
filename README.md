@@ -26,34 +26,35 @@ More info about the game & gameplay [HERE](https://docs.rogues.studio/rogues-stu
 
 # Alphabet
 
-| Luminarix Characters | sounds like      |
-| -------------------- | ---------------- |
-| 🜂                    | "a" in apple     |
-| 🜃                    | "bu" in bun      |
-| 🜄                    | "ci" in cinema   |
-| 🜅                    | "de" in den      |
-| 🜆                    | "e" in end       |
-| 🜇                    | "fi" in fin      |
-| 🜈                    | "gi" in gift     |
-| 🜉                    | "hi" in hit      |
-| 🜊                    | "i" in it        |
-| 🜋                    | "ju" in jump     |
-| 🜌                    | "ki" in kit      |
-| 🜍                    | "lu" in luck     |
-| 🜎                    | "mo" in mop      |
-| 🜏                    | "nu" in nut      |
-| 🜐                    | "o" in on        |
-| 🜑                    | "pi" in pin      |
-| 🜒                    | "ki" in kinectic |
-| 🜓                    | "ru" in ruck     |
-| 🜔                    | "si" in sit      |
-| 🜕                    | "ti" in tin      |
-| 🜖                    | "u" in cup       |
-| 🜗                    | "v" in victory   |
-| 🜘                    | "wi" in win      |
-| 🜙                    | "zi" in zebra    |
-| 🜚                    | "yu" in yuck     |
-| 🜛                    | "zi" in zinc     |
+| Luminarix Characters | sounds like                                                              |
+| -------------------- | ------------------------------------------------------------------------ |
+| 🜂                    | "a" in apple                                                             |
+| 🜃                    | "bu" in bun                                                              |
+| 🜄                    | "ci" in cinema                                                           |
+| 🜅                    | "de" in den                                                              |
+| 🜆                    | "e" in end                                                               |
+| 🜇                    | "fi" in fin                                                              |
+| 🜈                    | "gi" in gift                                                             |
+| 🜉                    | "hi" in hit                                                              |
+| 🜊                    | "i" in it                                                                |
+| 🜋                    | "ju" in jump                                                             |
+| 🜌                    | "ki" in kit                                                              |
+| 🜍                    | "lu" in luck                                                             |
+| 🜎                    | "mo" in mop                                                              |
+| 🜏                    | "nu" in nut                                                              |
+| 🜐                    | "o" in on                                                                |
+| 🜑                    | "pi" in pin                                                              |
+| 🜒                    | "ki" in kinectic                                                         |
+| 🜓                    | "ru" in ruck                                                             |
+| 🜔                    | "si" in sit                                                              |
+| 🜕                    | "ti" in tin                                                              |
+| 🜖                    | "u" in cup                                                               |
+| 🜗                    | "v" in victory                                                           |
+| 🜘                    | "wi" in win                                                              |
+| 🜙                    | "zi" in zebra                                                            |
+| 🜚                    | "yu" in yuck                                                             |
+| 🜛                    | "zi" in zinc                                                             |
+| 🜜                    | Mux - a 'm' as in "moon", a short 'u' as in "up", and a 'x' as in "fox". |
 
 ## Common Words & Phrases
 
@@ -75,23 +76,24 @@ More info about the game & gameplay [HERE](https://docs.rogues.studio/rogues-stu
 | 🜎🜅🜑             | Mo Di Pi                     | Good            |
 | 🜃🜎🜉             | Bu Mo Hi                     | Bad             |
 | 🜇🜆 🜎🜅🜎🜉🜆🜇       | Fi E Mo Di Mo Hi E Fi        | Good Morning    |
-| 🜑🜆🜗🜆 🜂 🜎🜅🜑 🜏🜉🜖  | Pi-E-Vi-E A Mo-De-Pi Nu-Hi-U | Have a good day |
+| 🜑🜆🜗🜆 🜂 🜎🜅🜑 🜏🜉🜖  | Pi E Vi E A Mo De Pi Nu Hi U | Have a good day |
 
-| Luminarix Chars   | Pronunciation                      | Meaning             |
-| ----------------- | ---------------------------------- | ------------------- |
-| 🜂🜆 🜎🜅 🜕🜎          | AE Mo To                           | I see a tree        |
-| 🜂🜆 🜎🜅🜉            | AE Mo Di                           | I run               |
-| 🜕🜉🜆🜏🜐🜖            | Ti Hi E Nu O U                     | Thank You           |
-| 🜐🜎🜆🜆🜓🜆            | O Mo E E Ru E                      | Please              |
-| 🜆🜒🜇🜊🜓🜆 🜎🜆         | E Qi Fi I Ru E Mo E                | Excuse Me           |
-| 🜓🜅🜎🜎🜖             | Ru Di Mo Mo U                      | Sorry               |
-| 🜉🜆🜙 🜓🜉🜆 🜙🜆🜕🜉🜆🜎?   | Hi E Xi Ru Hi E Xi Ti Hi E Mo?     | How is the weather? |
-| 🜙🜉🜆🜕 🜃🜐🜊🜎 🜏🜆🜎🜎🜆?  | Xi Hi E Ti Bu O I Mo Nu E Mo Mo E? | What is your name?  |
-| 🜉🜆🜙 🜎🜖 🜃🜐 🜇🜆🜏🜅🜆🜎? | Hi E Xi Mo U Bu O Fi E Nu De E Mo  | How are you doing?  |
+| Luminarix Chars   | Pronunciation                      | Meaning                                  |
+| ----------------- | ---------------------------------- | ---------------------------------------- |
+| 🜂🜆 🜎🜅 🜕🜎          | AE Mo To                           | I see a tree                             |
+| 🜂🜆 🜎🜅🜉            | AE Mo Di                           | I run                                    |
+| 🜕🜉🜆🜏🜐🜖            | Ti Hi E Nu O U                     | Thank You                                |
+| 🜐🜎🜆🜆🜓🜆            | O Mo E E Ru E                      | Please                                   |
+| 🜆🜒🜇🜊🜓🜆 🜎🜆         | E Qi Fi I Ru E Mo E                | Excuse Me                                |
+| 🜓🜅🜎🜎🜖             | Ru Di Mo Mo U                      | Sorry                                    |
+| 🜉🜆🜙 🜓🜉🜆 🜙🜆🜕🜉🜆🜎?   | Hi E Zi Ru Hi E Zi Ti Hi E Mo?     | How is the weather?                      |
+| 🜙🜉🜆🜕 🜃🜐🜊🜎 🜏🜆🜎🜎🜆?  | Xi Hi E Ti Bu O I Mo Nu E Mo Mo E? | What is your name?                       |
+| 🜉🜆🜙 🜎🜖 🜃🜐 🜇🜆🜏🜅🜆🜎? | Hi E Zi Mo U Bu O Fi E Nu De E Mo  | How are you doing? (formal)              |
+| 🜉🜆🜙 🜃🜐            | Hi E Zi Bu O                       | How are you? (casual) literally How you? |
 
 | Luminarix Chars | Pronunciation     | Meaning  |
 | --------------- | ----------------- | -------- |
-| 🜙🜅🜎🜖🜃(🜎)        | Xi De Mo U Bu(Mo) | World(s) |
+| 🜙🜅🜎🜖🜃(🜎)        | Zi De Mo U Bu(Mo) | World(s) |
 | 🜑🜆              | Pi E              | Of       |
 | 🜓🜐🜇🜖🜆(🜎)        | Ru O Fi U E (Mo)  | Rogue(s) |
 | 🜕🜉🜆             | Ti Hi E           | The      |
@@ -113,9 +115,9 @@ More info about the game & gameplay [HERE](https://docs.rogues.studio/rogues-stu
 
 | Luminarix Chars               | Pronunciation                                                | Meaning                                |
 | ----------------------------- | ------------------------------------------------------------ | -------------------------------------- |
-| 🜓🜆🜐🜒 🜎🜆🜕 🜓🜆🜎🜆🜃, 🜓🜕🜆🜒🜑🜆 🜎🜆🜕 🜅🜆 | Ru-E-O-Qi Mo-E-Ti Ru-E-Mo-E-Bu, Ru-Ti-E-Qi-Pi-E Mo-E-Ti De-E | Sneak like a shadow, strike like a fox |
-| 🜂 🜅🜆🜎 🜓🜆🜎🜐🜎 🜆🜓 🜆🜏 🜔🜆 🜕🜆🜎🜎     | A De-E-Mo Ru-E-Mo-O-Mo E-Ru E-Nu Si-E Ti-E-Mo-Mo             | A fox's wisdom is in its tail          |
-| 🜆🜗🜆🜏 🜂 🜅🜆 🜇🜆🜏 🜃🜆 🜐🜅🜆🜎-🜅🜆      | E-Vi-E-Nu A De-E Fi-E-Nu Bu-E O-De-E-Mo-De-E                 | Even a fox can be outfoxed             |
+| 🜓🜆🜐🜒 🜎🜆🜕 🜓🜆🜎🜆🜃, 🜓🜕🜆🜒🜑🜆 🜎🜆🜕 🜅🜆 | Ru E O Qi Mo E Ti Ru E Mo E Bu, Ru Ti E Qi Pi E Mo E Ti De E | Sneak like a shadow, strike like a fox |
+| 🜂 🜅🜆🜎 🜓🜆🜎🜐🜎 🜆🜓 🜆🜏 🜔🜆 🜕🜆🜎🜎     | A De E Mo Ru E Mo O Mo E Ru E Nu Si E Ti E Mo Mo             | A fox's wisdom is in its tail          |
+| 🜆🜗🜆🜏 🜂 🜅🜆 🜇🜆🜏 🜃🜆 🜐🜅🜆🜎-🜅🜆      | E Vi E Nu A De E Fi E Nu Bu E O De E Mo De E                 | Even a fox can be outfoxed             |
 
 # Common Vulp Names & Meanings in Luminarix
 
@@ -176,6 +178,9 @@ More info about the game & gameplay [HERE](https://docs.rogues.studio/rogues-stu
 | 🜇🜖🜐             | Fi U O        | 50      |
 | 🜇🜗🜐             | Fi Vi O       | 60      |
 | 🜇🜘🜐             | Fi Wi O       | 70      |
-| 🜇🜙🜐             | Fi Xi O       | 80      |
+| 🜇🜙🜐             | Fi Zi O       | 80      |
 | 🜇🜚🜐             | Fi Yu O       | 90      |
 | 🜈🜐🜐             | Gi O O        | 100     |
+| 🜈🜜🜋             | Gi Mux Ju     | 1000    |
+| 🜈🜋              | Gi Ju         | 10,000  |
+| 🜈🜋🜋             | Gi Ju Ju      | 100,000 |
