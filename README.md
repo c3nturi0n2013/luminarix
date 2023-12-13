@@ -67,6 +67,7 @@ Inspired by World of Rogues, I created the beginning of a language called *Lumin
  |🜎🜅🜑|Mo Di Pi|Good|
  |🜃🜎🜉|Bu Mo Hi|Bad|
  |🜇🜆 🜎🜅🜎🜉🜆🜇|Fi E Mo Di Mo Hi E Fi|Good Morning|
+ |🜑🜆🜗🜆 🜂 🜎🜅🜑 🜏🜉🜖|Pi-E-Vi-E A Mo-De-Pi Nu-Hi-U|Have a good day|
 
   |Luminarix Chars |Pronunciation|Meaning|
  |------------|-------------|-------|
