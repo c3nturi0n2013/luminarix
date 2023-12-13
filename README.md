@@ -7,7 +7,7 @@
 🜂 🜎🜅🜖🜇🜆 🜐🜎 🜅🜆🜎 🜇🜆🜏🜅🜆🜎 🜃🜖 🜂 🜅🜆  
 (translation ~ A language for foxiz created by a fox 🦊.)
 
-## Dec 17th 2023 Version 1.0
+## Version 1.0
 
 # Intro
 
