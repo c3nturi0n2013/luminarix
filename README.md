@@ -61,6 +61,8 @@ More info about the game & gameplay [HERE](https://docs.rogues.studio/rogues-stu
 | Luminarix Chars | Pronunciation | Meaning |
 | --------------- | ------------- | ------- |
 | 🜂🜆              | AE            | I/Me    |
+| 🜉🜆              | Hi E          | He      |
+| 🜍🜆🜐             | Lu E O        | She     |
 | 🜎🜅              | Mo            | See     |
 | 🜅🜆              | De            | Fox     |
 | 🜕🜎              | To            | Tree    |
