@@ -15,7 +15,11 @@ To enhance this immersive experience, a language has been crafted, a tongue uniq
 
 Thus, "World of Rogues" transcends the boundaries of ordinary gaming, elevating itself to an experience that is both intellectually stimulating and viscerally engaging. As players navigate this world, their tongues become tools of their trade, their language a weapon as sharp as any blade. In this game, to speak is to delve deeper into the heart of cunning, to become one with the foxiz that roam its enigmatic landscape.
 
-Inspired by World of Rogues, I created the beginning of a language called *Luminarix* (still a work in progress). This name combines a sense of luminance or light (Lumin-) with a touch of mystery and sophistication (-arix), suggesting a language that is both enlightening and enchanting, befitting the clever and mystical nature of foxiz.
+Inspired by World of Rogues, I created the beginning of a language called *Luminarix* (still a work in progress). This name combines a sense of luminance or light (Lumin-) with a touch of mystery and sophistication (-arix), suggesting a language that is both enlightening and enchanting, befitting the clever and mystical nature of foxiz.  
+
+# World of Rogues (Season 2 - Starts Dec 18th, 2023)
+Don't just play games, live them in the World of Rogues. Check it out [HERE](https://www.rogues.studio)  
+More info about the game & gameplay [HERE](https://docs.rogues.studio/rogues-studio/values-and-mission)
 
 # Alphabet
 
