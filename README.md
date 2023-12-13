@@ -87,6 +87,14 @@ Inspired by World of Rogues, I created the beginning of a language called *Lumin
  |🜃🜖🜆|Bu U E|Bye(casual)|
  |🜎🜅🜈🜐🜓|Mo De Gi O Ru|Word used to chant during celebrations!|
 
+ # Vulp Idioms in Luminarix & Meanings
+  |Luminarix Chars |Pronunciation|Meaning|
+ |------------|-------------|-------|
+ |🜓🜆🜐🜒 🜎🜆🜕 🜓🜆🜎🜆🜃, 🜓🜕🜆🜒🜑🜆 🜎🜆🜕 🜅🜆|Ru-E-O-Qi Mo-E-Ti Ru-E-Mo-E-Bu, Ru-Ti-E-Qi-Pi-E Mo-E-Ti De-E|Sneak like a shadow, strike like a fox|
+ |🜂 🜅🜆🜎 🜓🜆🜎🜐🜎 🜆🜓 🜆🜏 🜔🜆 🜕🜆🜎🜎|A De-E-Mo Ru-E-Mo-O-Mo E-Ru E-Nu Si-E Ti-E-Mo-Mo|A fox's wisdom is in its tail|
+ |🜆🜗🜆🜏 🜂 🜅🜆 🜇🜆🜏 🜃🜆 🜐🜅🜆🜎-🜅🜆|E-Vi-E-Nu A De-E Fi-E-Nu Bu-E O-De-E-Mo-De-E|Even a fox can be outfoxed|
+ 
+
  # Common Vulp Names & Meanings in Luminarix
  |Vulp Names|Pronunciation|Meaning|
  |----------|-------------|-------|
