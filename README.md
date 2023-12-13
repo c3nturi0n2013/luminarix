@@ -2,7 +2,7 @@
 
 ## Created by 🜃🜆🜆🜐🜎🜎 (Bu E E O Mo Mo)
 
-![Logo](yo.png)
+![Logo](BuEEOMoMo.png)
 
 🜂 🜎🜅🜖🜇🜆 🜐🜎 🜅🜆🜎 🜇🜆🜏🜅🜆🜎 🜃🜖 🜂 🜅🜆  
 (translation ~ A language for foxiz created by a fox 🦊.)
