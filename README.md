@@ -8,7 +8,7 @@
 
 ## Dec 17th 2023 Version 1.0
 
-## Intro
+# Intro
 In the ethereal realm of "World of Rogues," a game of cunning and shadows, the essence of its allure lies not just in the gameplay but in the very tongues its characters speak. Here, in this fantastical domain, the characters are not mere mortals but foxiz, creatures of myth and trickery, each endowed with a sly intelligence and a beguiling charm. This world is not merely a place to play; it is a realm where the art of language is as crucial as the stealthy steps of its vulpine inhabitants.
 
 To enhance this immersive experience, a language has been crafted, a tongue unique to these sly beings, a dialect that resonates with the cleverness and guile intrinsic to their nature. This language is more than mere words; it is a symphony of expression, a dance of syllables that weaves the players deeper into the game's intricate tapestry. As players engage, they do not simply speak; they embody the very essence of these cunning foxiz, their words a reflection of the artful deceit and playful intrigue that defines the game.
