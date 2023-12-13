@@ -24,6 +24,10 @@ Inspired by World of Rogues, I created the beginning of a language called _Lumin
 Don't just play games, live them in the World of Rogues. Check it out [HERE](https://www.rogues.studio)  
 More info about the game & gameplay [HERE](https://docs.rogues.studio/rogues-studio/values-and-mission)
 
+# Join the Straw Hat Rogues
+
+I heard through X Spaces that we will need to team up to complete the journey & survive 👀 season 2! I am US 🇺🇸 based so any players that would like to join up & play, my group will be called the Straw Hat Rogues (inspired by Monkey D. Luffy & the Straw Hat Pirates 🏴‍☠️ | Shoutout One Piece!). Anyone can join my group, no matter where you are located. Join the Straw Hat Rogues & let's survive & conquer season 2 together! 💪🏻 Hit me up on the Rogues Discord, my username is: deadpool6978.
+
 # Alphabet
 
 | Luminarix Characters | sounds like                                                              |
