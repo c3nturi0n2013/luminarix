@@ -77,16 +77,17 @@ More info about the game & gameplay [HERE](https://docs.rogues.studio/rogues-stu
 | 🜇🜆 🜎🜅🜎🜉🜆🜇       | Fi E Mo Di Mo Hi E Fi        | Good Morning    |
 | 🜑🜆🜗🜆 🜂 🜎🜅🜑 🜏🜉🜖  | Pi-E-Vi-E A Mo-De-Pi Nu-Hi-U | Have a good day |
 
-| Luminarix Chars  | Pronunciation                      | Meaning             |
-| ---------------- | ---------------------------------- | ------------------- |
-| 🜂🜆 🜎🜅 🜕🜎         | AE Mo To                           | I see a tree        |
-| 🜂🜆 🜎🜅🜉           | AE Mo Di                           | I run               |
-| 🜕🜉🜆🜏🜐🜖           | Ti Hi E Nu O U                     | Thank You           |
-| 🜐🜎🜆🜆🜓🜆           | O Mo E E Ru E                      | Please              |
-| 🜆🜒🜇🜊🜓🜆 🜎🜆        | E Qi Fi I Ru E Mo E                | Excuse Me           |
-| 🜓🜅🜎🜎🜖            | Ru Di Mo Mo U                      | Sorry               |
-| 🜉🜆🜙 🜓🜉🜆 🜙🜆🜕🜉🜆🜎?  | Hi E Xi Ru Hi E Xi Ti Hi E Mo?     | How is the weather? |
-| 🜙🜉🜆🜕 🜃🜐🜊🜎 🜏🜆🜎🜎🜆? | Xi Hi E Ti Bu O I Mo Nu E Mo Mo E? | What is your name?  |
+| Luminarix Chars   | Pronunciation                      | Meaning             |
+| ----------------- | ---------------------------------- | ------------------- |
+| 🜂🜆 🜎🜅 🜕🜎          | AE Mo To                           | I see a tree        |
+| 🜂🜆 🜎🜅🜉            | AE Mo Di                           | I run               |
+| 🜕🜉🜆🜏🜐🜖            | Ti Hi E Nu O U                     | Thank You           |
+| 🜐🜎🜆🜆🜓🜆            | O Mo E E Ru E                      | Please              |
+| 🜆🜒🜇🜊🜓🜆 🜎🜆         | E Qi Fi I Ru E Mo E                | Excuse Me           |
+| 🜓🜅🜎🜎🜖             | Ru Di Mo Mo U                      | Sorry               |
+| 🜉🜆🜙 🜓🜉🜆 🜙🜆🜕🜉🜆🜎?   | Hi E Xi Ru Hi E Xi Ti Hi E Mo?     | How is the weather? |
+| 🜙🜉🜆🜕 🜃🜐🜊🜎 🜏🜆🜎🜎🜆?  | Xi Hi E Ti Bu O I Mo Nu E Mo Mo E? | What is your name?  |
+| 🜉🜆🜙 🜎🜖 🜃🜐 🜇🜆🜏🜅🜆🜎? | Hi E Xi Mo U Bu O Fi E Nu De E Mo  | How are you doing?  |
 
 | Luminarix Chars | Pronunciation     | Meaning  |
 | --------------- | ----------------- | -------- |
