@@ -7,7 +7,7 @@
 🜂 🜎🜅🜖🜇🜆 🜐🜎 🜅🜆🜎 🜇🜆🜏🜅🜆🜎 🜃🜖 🜂 🜅🜆  
 (translation ~ A language for foxiz created by a fox 🦊.)
 
-Like Luffy I too want to create a world where my friends can eat as much as they want 😋🍽️
+### Like Luffy I too want to create a world where my friends can eat as much as they want 😋🍽️
 
 ## Version 1.0
 
