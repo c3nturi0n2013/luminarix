@@ -1,11 +1,13 @@
 # LUMINARIX
 
-## Created by 🜃🜆🜆🜐🜎🜎 (Bu E E O Mo Mo)
+## Created by StrawHatSwift
 
-![Author Image](BuEEOMoMo.png)
+![Author Image](strawhat.png)
 
 🜂 🜎🜅🜖🜇🜆 🜐🜎 🜅🜆🜎 🜇🜆🜏🜅🜆🜎 🜃🜖 🜂 🜅🜆  
 (translation ~ A language for foxiz created by a fox 🦊.)
+
+Like Luffy I too want to create a world where my friends can eat as much as they want 😋🍽️
 
 ## Version 1.0
 
@@ -26,7 +28,7 @@ More info about the game & gameplay [HERE](https://docs.rogues.studio/rogues-stu
 
 # Join the Straw Hat Rogues
 
-I heard through X Spaces that we will need to team up to complete the journey & survive 👀 season 2! I am US 🇺🇸 based so any players that would like to join up & play, my group will be called the Straw Hat Rogues (inspired by Monkey D. Luffy & the Straw Hat Pirates 🏴‍☠️ | Shoutout One Piece!). Anyone can join my group, no matter where you are located. Join the Straw Hat Rogues & let's survive & conquer season 2 together! 💪🏻 Hit me up on the Rogues Discord, my username is: deadpool6978.
+I heard through X Spaces that we will need to team up to complete the journey & survive 👀 season 2! I am US 🇺🇸 based so any players that would like to join up & play, my group will be called the Straw Hat Rogues (inspired by Monkey D. Luffy & the Straw Hat Pirates 🏴‍☠️ | Shoutout One Piece!). Anyone can join my group, no matter where you are located. Join the Straw Hat Rogues & let's survive & conquer season 2 together! 💪🏻 Hit me up on the [Rogues Discord](https://discord.gg/rogues), my username is: deadpool6978, display name: StrawHatSwift🥷🏼.
 
 # Alphabet
 
