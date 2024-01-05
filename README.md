@@ -2,7 +2,7 @@
 
 ## Created by StrawHatSwift
 
-![Author Image](strawhat.png)
+![Author Image](newHat.png)
 
 🜂 🜎🜅🜖🜇🜆 🜐🜎 🜅🜆🜎 🜇🜆🜏🜅🜆🜎 🜃🜖 🜂 🜅🜆  
 (translation ~ A language for foxiz created by a fox 🦊.)
